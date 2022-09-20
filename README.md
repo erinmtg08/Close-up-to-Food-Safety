@@ -6,6 +6,7 @@ La fuente de datos fue tomada de la Organización FAO (La Organización de las N
 
 ## Integrantes
 Nicoll Montero
+Maria Clara Zapata
 
 ## Temas
 Importancia de la Seguridad Alimentaria
