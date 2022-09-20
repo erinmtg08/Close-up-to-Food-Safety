@@ -9,6 +9,9 @@ Nicoll Montero
 Maria Clara Zapata
 Miguel Hernández
 Erin Troetsch 
+José Velásquez
+Victor Fiallos
+
 ## Temas
 Importancia de la Seguridad Alimentaria
 Cosncientización de la población en temas de seguridad alimentaria a nivel de latinoamerica 
