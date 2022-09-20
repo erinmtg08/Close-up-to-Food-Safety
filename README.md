@@ -8,9 +8,11 @@ La fuente de datos fue tomada de la Organización FAO (La Organización de las N
 Nicoll Montero
 Maria Clara Zapata
 Miguel Hernández
-
+Erin Troetsch 
 ## Temas
 Importancia de la Seguridad Alimentaria
+Cosncientización de la población en temas de seguridad alimentaria a nivel de latinoamerica 
+Simplificación de la información para su fácil comprensión
 
 # Referencias
 https://www.fao.org/faostat/es/#data/FS/visualize
